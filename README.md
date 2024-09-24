@@ -1,4 +1,4 @@
-# Visualizing stock market data in realtime using Apache Kafka, Apache Druid and Apache Superset
+# Visualizing stock market data in real-time using Apache Kafka, Apache Druid and Apache Superset
 
 ![Stock Analysis Data Flow](assets/images/stockanalysisdiagram.gif)
 
@@ -32,5 +32,5 @@ To Install and set-up Apache Druid please refer to documentation available at [a
 To Install and set-up Apache Superset please refer to documentation available at [atwish.org/apache-superset/installation](https://atwish.org/apache-superset/installation)
 
 
-> [!INFO]
+> [!TIP]
 > In Next Project we will consume this data into Apache Spark and perform Further analysis. If you are interested subscribe here.
